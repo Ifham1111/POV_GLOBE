@@ -23,22 +23,22 @@ Revolutionize the world of advertising with our IoT-based 3D Globe LED Signboard
 
 
 
-🌍 3D Globe Design: Stand out from the competition with a mesmerizing globe-shaped signboard that immediately captures attention.
+` 3D Globe Design: Stand out from the competition with a mesmerizing globe-shaped signboard that immediately captures attention.
 
 
-🎨 Customizable Displays: Use our user-friendly web interface to personalize and display messages, graphics, and animations in real-time.
+` Customizable Displays: Use our user-friendly web interface to personalize and display messages, graphics, and animations in real-time.
 
 
-🌀 Persistence of Vision (POV): Experience the magic of rotating text and visuals that create an illusion of a complete image through rapid LED illumination.
+` Persistence of Vision (POV): Experience the magic of rotating text and visuals that create an illusion of a complete image through rapid LED illumination.
 
 
-📡 IoT Integration: Seamlessly control the signboard remotely through an ESP32 web server, allowing instant updates and interactive engagement.
+` IoT Integration: Seamlessly control the signboard remotely through an ESP32 web server, allowing instant updates and interactive engagement.
 
 
-🌈 Dynamic Light Shows: Beyond advertising, our signboard can transform into a dynamic disco light or festive decorator, enhancing event experiences.
+` Dynamic Light Shows: Beyond advertising, our signboard can transform into a dynamic disco light or festive decorator, enhancing event experiences.
 
 
-📊 Real-time RPM Display: Measure and display the rotation speed of the globe for an added layer of engagement.
+` Real-time RPM Display: Measure and display the rotation speed of the globe for an added layer of engagement.
 
 
 
@@ -47,13 +47,13 @@ Revolutionize the world of advertising with our IoT-based 3D Globe LED Signboard
 💡 Usage
 
 
-Connect the hardware components according to the Wiring Diagram.
+`Connect the hardware components according to the Wiring Diagram.
 
 
-Access the web interface on your device's browser to customize the displayed text and visuals.
+`Access the web interface on your device's browser to customize the displayed text and visuals.
 
 
-Watch in awe as the 3D globe mesmerizes with rotating displays.
+`Watch in awe as the 3D globe mesmerizes with rotating displays.
 
 
 
@@ -73,7 +73,7 @@ Watch in awe as the 3D globe mesmerizes with rotating displays.
 🌍 Real-Life Use Case: Interactive Events
 
 
-Imagine a bustling town carnival where our 3D Globe LED Signboard illuminates the event. As the sun sets, it transforms into a dynamic disco light, creating a vibrant atmosphere. Later, it showcases event schedules and announcements, captivating visitors.
+`Imagine a bustling town carnival where our 3D Globe LED Signboard illuminates the event. As the sun sets, it transforms into a dynamic disco light, creating a vibrant atmosphere. Later, it showcases event schedules and announcements, captivating visitors.
 
 
 
@@ -83,13 +83,13 @@ Imagine a bustling town carnival where our 3D Globe LED Signboard illuminates th
 🚀 Future Enhancements
 
 
-Integration with weather APIs for dynamic displays.
+`Integration with weather APIs for dynamic displays.
 
 
-Gesture control for interactive user engagement.
+`Gesture control for interactive user engagement.
 
 
-Mobile app for remote management and customization.
+`Mobile app for remote management and customization.
 
 
 
@@ -98,10 +98,10 @@ Mobile app for remote management and customization.
 📚 Resources
 
 
-ESP32 Official Documentation
+`ESP32 Official Documentation
 
 
-WS2812 LED Strip Library
+`WS2812 LED Strip Library
 
 
 
