@@ -138,3 +138,13 @@ Update 3: Progress and Achievements
 
 https://github.com/Ifham1111/POV_GLOBE/assets/141899095/30fca957-50af-4545-b86f-eebc5bd21a4b
 
+
+
+
+
+
+
+https://github.com/Ifham1111/POV_GLOBE/assets/141899095/226b80ac-93d6-407e-9967-081c8af44e07
+
+
+
