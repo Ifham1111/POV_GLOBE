@@ -48,7 +48,11 @@ Revolutionize the world of advertising with our IoT-based 3D Globe LED Signboard
 
 
 Connect the hardware components according to the Wiring Diagram.
+
+
 Access the web interface on your device's browser to customize the displayed text and visuals.
+
+
 Watch in awe as the 3D globe mesmerizes with rotating displays.
 
 
@@ -80,7 +84,11 @@ Imagine a bustling town carnival where our 3D Globe LED Signboard illuminates th
 
 
 Integration with weather APIs for dynamic displays.
+
+
 Gesture control for interactive user engagement.
+
+
 Mobile app for remote management and customization.
 
 
@@ -91,6 +99,8 @@ Mobile app for remote management and customization.
 
 
 ESP32 Official Documentation
+
+
 WS2812 LED Strip Library
 
 
@@ -114,7 +124,11 @@ We'd like to thank OpenAI for their contribution to AI and technology innovation
 🔗 Links to Related Posts and Updates
 
 Update 1: Project Inception
+
+
 Update 2: Hardware Selection
+
+
 Update 3: Progress and Achievements
 
 
